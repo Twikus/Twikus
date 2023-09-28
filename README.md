@@ -6,6 +6,6 @@
                                 - Mail : axel.duquelzar@outlook.fr 
                                 - Linkedin : Axel Duquelzar
                                 
-- 💻 My Portfolio : axel-duquelzar.fr
+- 💻 My Portfolio : axelduquelzar.fr
 
 
