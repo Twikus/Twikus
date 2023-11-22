@@ -3,8 +3,8 @@
 - 🌱 I’m student at IUT de Troyes
 - 👨🏻‍💻 I’m looking for sandwich training
 - 📫 You can contact me here : 
-                                - Mail : axel.duquelzar@outlook.fr 
-                                - Linkedin : Axel Duquelzar
+      - Mail : axel.duquelzar@outlook.fr 
+      - Linkedin : Axel Duquelzar
                                 
 - 💻 My Portfolio : axelduquelzar.fr
 
