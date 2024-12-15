@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Twikus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Twikus&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Twikus&layout=compact&theme=radical)  
-
----
-
 ## 🚀 Fun Facts  
 - 🏍️ Passionate motorbike rider, always exploring new roads.  
 - 💻 Focused on creating impactful, well-crafted, and user-friendly web solutions.  
