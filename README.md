@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me  
 - 🔭 Fullstack Developer at **Crédit Agricole Champagne-Bourgogne**, part of the **Solead** team.  
 - 🌱 Passionate about **web development**, constantly learning and improving.  
-- 🏍️ Enthusiastic motorbike rider — cruising on my **Suzuki GSX-R 750**.  
+- 🏍️ Enthusiastic motorbike rider — cruising on my **Triumph Street Triple 675R**.  
 - 🎓 Graduate of **IUT de Troyes** in BUT Métiers du Multimédia et de l'Internet.  
 
 ---
